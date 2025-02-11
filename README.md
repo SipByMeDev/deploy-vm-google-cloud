@@ -121,7 +121,7 @@ sudo nano /var/www/html/index.html
 ```bash
 gcloud compute instances list
 ````
--Find the VM's external IP address and put into your browser to fetch the page.
+- Find the VM's external IP address and put into your browser to fetch the page.
 
 ## Troubleshooting.
 Common issues and resolutions:
@@ -135,8 +135,8 @@ gcloud auth application-default login
 ```bash
 gcloud compute instances list
 ````
--HTTP Access Issues:
--Ensure Apache is installed and running
+- HTTP Access Issues:
+- Ensure Apache is installed and running
 ```bash
 sudo systemctl status apache2
 ````
