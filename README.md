@@ -31,7 +31,7 @@ The repository also includes instructions for verifying the deployment via the G
    - Create or use an existing project in the [Google Cloud Console](https://console.cloud.google.com/).
    - Set your project as the default:
      ```bash
-     gcloud config set project cloud-assignment-450118
+     gcloud config set project PROJECT_ID
      ```
    - Enable the necessary APIs:
      ```bash
