@@ -46,9 +46,9 @@ The repository also includes instructions for verifying the deployment via the G
 ## Google Cloud project setup
 - Create a new Google Cloud project or use an existing one.
 - Set your project as the default:
-  ```bash
+```bash
 gcloud config set project PROJECT_ID
-``
+```
 
 - It can be easier to do this step in the Cloud Console.
 
